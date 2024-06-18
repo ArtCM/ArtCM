@@ -41,8 +41,15 @@ Atualmente utilizo React.js, Typescript, Next.js, Vite e algumas aplicações co
 ![Frontend](https://skillicons.dev/icons?i=react,typescript,nodejs,angular,next,vite,bootstrap,tailwind,html,css,javascript,jquery,git,photoshop,figma)
 
 # Principais Projetos
+
+<div align="center">
+
 [![Loja_Virtual_Angular](https://github-readme-stats.vercel.app/api/pin/?username=ArtCM&repo=loja-virtual-com-angular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ArtCM/loja-virtual-com-angular)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=83ArtCM&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ArtCM/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ArtCM&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ArtCM/portfolio)
+  
+</div>
+
+
 
 
   
