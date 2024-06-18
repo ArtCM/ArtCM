@@ -47,7 +47,7 @@ Atualmente utilizo React.js, Typescript, Next.js, Vite e algumas aplicações co
 <div align="center">
 
 [![Loja_Virtual_Angular](https://github-readme-stats.vercel.app/api/pin/?username=ArtCM&repo=loja-virtual-com-angular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=3B74BE&text_color=FFF)](https://github.com/ArtCM/loja-virtual-com-angular)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ArtCM&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=3B74BE&text_color=FFF)](https://github.com/ArtCM/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ArtCM&repo=portfolio-react&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=3B74BE&text_color=FFF)](https://github.com/ArtCM/portfolio-react)
   
 </div>
 
