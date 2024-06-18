@@ -40,6 +40,8 @@ Atualmente utilizo React.js, Typescript, Next.js, Vite e algumas aplicações co
 
 ![Frontend](https://skillicons.dev/icons?i=react,typescript,nodejs,angular,next,vite,bootstrap,tailwind,html,css,javascript,jquery,git,photoshop,figma)
 
+<br>
+
 # Principais Projetos
 
 <div align="center">
